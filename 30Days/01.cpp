@@ -17,19 +17,19 @@ and initialize your  variables.
 - Print the sum of  plus your double variable to a scale of one decimal place on a new line.
 - Concatenate  with the string you read as input and print the result on a new line.
 
-Note: If you are using a language that doesn't support using  for string concatenation (e.g.: C), 
+Note: If you are using a language that doesn't support using + for string concatenation (e.g.: C), 
 you can just print one variable immediately following the other on the same line. The string 
 provided in your editor must be printed first, immediately followed by the string you read as input.
 
 Input Format
 
-The first line contains an integer that you must sum with .
-The second line contains a double that you must sum with .
-The third line contains a string that you must concatenate with .
+The first line contains an integer that you must sum with i.
+The second line contains a double that you must sum with d.
+The third line contains a string that you must concatenate with s.
 
 Output Format
 
-Print the sum of both integers on the first line, the sum of both doubles (scaled to  decimal place) 
+Print the sum of both integers on the first line, the sum of both doubles (scaled to 1 decimal place) 
 on the second line, and then the two concatenated strings on the third line.
 
 */
