@@ -23,6 +23,10 @@ You must have exactly 1 function named printArray.
 Your printArray function should print each element of its generic array parameter on a new line.
 */
 
+/* Helpful link
+http://www.cplusplus.com/doc/oldtutorial/templates/
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
