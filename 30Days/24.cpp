@@ -25,7 +25,8 @@ The @N subsequent lines each contain an integer describing the @data value of a 
 **Constraints
 
 The data elements of the linked list argument will always be in non-decreasing order.
-Output Format
+
+**Output Format
 
 Your removeDuplicates function should return the head of the updated linked list. The locked stub code in your editor will print the returned list to stdout.
 
@@ -38,14 +39,17 @@ Your removeDuplicates function should return the head of the updated linked list
 3
 3
 4
-Sample Output
+
+**Sample Output
 
 1 2 3 4 
-Explanation
+
+**Explanation
 
 @N = 6, and our non-decreasing list is {1, 2, 2, 3, 3, 4}. The values 2 and 3 both occur twice in the list, so we remove the two
 duplicate nodes. We then return our updated (ascending) list, which is {1, 2, 3, 4}.
 
+*/
 #include <cstddef>
 #include <cmath>
 #include <cstdio>
